@@ -1,5 +1,8 @@
-# Introduction
+# HyperMap - Where magic happens
 HyperMap is a full stack web app powered by React and Django. It enables people in CMU to discover and share interesting ongoing campus events, funny scenes or even requests for some help on this map. At a click on a dot on the map, a postcard edited by other users will show up to tell you what's up. Instead of traditional event notice in CMU via emails, with this website, people will never miss the most popular ongoing events on campus. Users will be presented with the most genuine perspectives of the events provided by their peers. Users can post a postcard on a point of the CMU campus map for current events or those in the future. User can decide who can see the post, maybe to close friends, to students in the same department, to professors, or even to all the users on the websites. The map also has a time line, by adjusting the timeline, users can see posts at present, in the past or in the future. Users can also search the events with keywords in a specific time period. In addition, users can see their footprints in the past. This postcard can include text, images, audios and videos. The postcard can also involve comments, likes, votes and registration for an event. This project has already been deployed to Google App Engine, click https://hypermap-cmu.appspot.com/ to visit.
+
+## Why HyperMap
+Traditional event notice in CMU is via email or posted on websites in different departments, which is very inconvenient and user experience unfriendly. With HyperMap, where we can see all school events on map, We improve the user expereience to a next level and make intensive school life more interesting.
 
 ## Tech Stack
 * React
