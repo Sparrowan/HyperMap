@@ -1,0 +1,1 @@
+{"name":"{{ event.name }}", "content":"{{ event.content }}", "category":"{{ event.category }}", "time":"{{ event.time }}", "session_begin":"{{ event.session_begin }}", "session_end":"{{ event.session_end }}", "registered":"{{ event.registered }}", "position":"{{ event.position }}", "lat":"{{ event.lat }}", "lng":"{{ event.lng }}", "user":"{{ event.user }}"}
